@@ -48,6 +48,7 @@ public class SwitchCaseMod {
 				
 			default:
 		System.out.println("zero");
+		break;
 				
 		}
 				}
